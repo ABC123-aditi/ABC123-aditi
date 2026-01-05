@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi 👋, I'm Aditi Durpade
 
-<!--
-**ABC123-aditi/ABC123-aditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently working on Full-stack Web Projects 
+  🎯 Goal: To become a skilled developer and contribute to impactful projects
+- 🛠️ Tech Stack: HTML, CSS, JavaScript, Node.js, Express, MongoDB
+- 📫 Reach me at: s22_durpade_aditi@mgmcen.ac.in.com
 
-Here are some ideas to get you started:
+---
+🌐 Connect with me:
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aditi-durpade-7258aa343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![GitHub]([https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ABC123-aditi](https://github.com/ABC123-aditi))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📌 Featured Projects
+- 🛍️ She-Style E-Commerce Platform
+- 📊 Realtime new summazrizer and social media trend analyzer
+
+---
+ 🏆 Achievements
+- Built full-stack projects
+- Hands-on experience with Git & GitHub
+- Strong foundation in backend development
+
