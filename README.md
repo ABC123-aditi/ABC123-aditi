@@ -1,14 +1,13 @@
 Hi 👋, I'm Aditi Durpade
 
 - 🌱 Currently working on Full-stack Web Projects 
-  🎯 Goal: To become a skilled developer and contribute to impactful projects
-- 🛠️ Tech Stack: HTML, CSS, JavaScript, Node.js, Express, MongoDB
-- 📫 Reach me at: s22_durpade_aditi@mgmcen.ac.in.com
+- 🎯 Goal: To become a skilled developer and contribute to impactful projects
+- 📫 Reach me at: s22_durpade_aditi@mgmcen.ac.in
+- ⚡ Fun fact: I love exploring nature and reading books 🌿📚
 
 ---
 🌐 Connect with me:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aditi-durpade-7258aa343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![GitHub]([https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ABC123-aditi](https://github.com/ABC123-aditi))
+[![LinkedIn]([data:image/png;base64,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)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aditi-durpade-7258aa343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
