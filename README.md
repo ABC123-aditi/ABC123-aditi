@@ -19,5 +19,6 @@ Hi 👋, I'm Aditi Durpade
  🏆 Achievements
 - Built full-stack projects
 - Hands-on experience with Git & GitHub
-- Strong foundation in backend development
+- Hands-on experience with frontend and beginner backend
+- Prepare for internships and entry-level developer roles
 
