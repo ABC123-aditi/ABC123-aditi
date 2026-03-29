@@ -13,7 +13,7 @@ Hi 👋, I'm Aditi Durpade
 
 📌 Featured Projects
 - 🛍️ She-Style E-Commerce Platform
-- 📊 Realtime new summazrizer and social media trend analyzer
+- 📊 AI based Exam Notes Generator
 
 ---
  🏆 Achievements
